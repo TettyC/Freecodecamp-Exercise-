@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    font-size: 1.6rem;
+    line-height: 1.5;
+    margin: 0;
+}
+
+#image {
+    max-width: 100%;
+}
+
+#img-caption {
+    font-size: 14px;
+}
+
+#img-div {
+    text-align: center;
+}
